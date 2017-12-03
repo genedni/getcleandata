@@ -1,8 +1,6 @@
-=============================================================
-run_analysis.R - v1.0
-Gene Place
-2017.12.03
-=============================================================
+# run_analysis.R - v1.0
+## Gene Place
+## 2017.12.03
 
 This script was written to satisfy the course project requirements
 for the Getting/Cleaning Data course from Johns Hopkins University
@@ -22,6 +20,6 @@ This script performs the following actions:
     	e. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 4. writes the final data set into the current working directory with the name "tidy.tbl"
 
-BUGS:
+**BUGS:**
 This script currently performs no error checking of the download process or the contents of the download, so a failed download will likely cause the script to 
 fail as well.
