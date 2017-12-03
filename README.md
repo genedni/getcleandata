@@ -12,7 +12,7 @@ This script performs the following actions:
 
 2. unzips the downloaded file into a new 'courseproject' directory
 
-3.  cleans, joins, and performs calculations on the data per the course requirements:
+3.  cleans, joins, and performs calculations on the data per the course requirements
 
 	1. Merges the training and the test sets to create one data set.
 
