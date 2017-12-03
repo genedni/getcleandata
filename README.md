@@ -9,8 +9,11 @@ Usage: run_analysis
 This script performs the following actions:
 1. downloads the zipped data set and supporting materials from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 	into the current working directory
+
 2. unzips the downloaded file into a new 'courseproject' directory
+
 3.  cleans, joins, and performs calculations on the data per the course requirements:
+
 	1. Merges the training and the test sets to create one data set.
 
     	2. Extracts only the measurements on the mean and standard deviation for each measurement.
